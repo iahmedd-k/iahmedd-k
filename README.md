@@ -7,51 +7,30 @@
 </p>
 
 ---
+### Languages
+  - Javascript, TypeScript, Python, C / C++ 
 
-## Backend Architecture & Systems
-
-### Backend Frameworks
-Backend:  
+### Backend
   - Express.js, Nest.js, Django, FastAPI  
   - REST APIs, GraphQL, gRPC, WebSockets, Redis
-### API & Service Design
-- RESTful APIs
-- GraphQL
-- gRPC
-- WebSockets
-- Microservices & modular monolith architectures
 
-### Databases & Caching
-- PostgreSQL / MySQL
-- MongoDB
-- SQLite
-- Redis (caching, pub/sub, queues)
+## Databases:
+  - MongoDB, PostgreSQL, MySQL, SQLite, Redis  
 ---
 
-## 🎨 Frontend
+##  Frontend
  - React.js, Vue.js, Next.js, Swift, Flutter
   - HTML5, CSS3, Tailwind CSS 
 ---
 
-## 🤖 AI / LLM Systems
+## AI / LLM Systems
+LangChain · RAG Pipelines · Vector DBs (Pinecone, Weaviate) · OpenAI · LLM Agents
 
-- LangChain pipelines
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases (Pinecone, Weaviate)
-- OpenAI integrations
-- Context management & embeddings
-- Prompt orchestration
-- Tool-based AI agents
----
-
-## 🚀 DevOps / Infrastructure / CI-CD
+## DevOps / Infrastructure / CI-CD
 DevOps / Cloud / Infrastructure:  
   - Docker, Docker Compose, Kubernetes, NGINX  
   - Git, GitHub Actions, Linux  
   - AWS (EC2, S3, Lambda), DigitalOcean, Vercel  
-
 ---
-
-
 email: ahmedkhanofficials@gmail.com
 Let’s build systems that last.
