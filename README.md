@@ -1,11 +1,14 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#1E90FF;">Ahmed Khan</span>  a Software Engineer 👨‍💻
+  Hi, I'm <a href="mailto:ahmedkhanofficials@gmail.com">Ahmed Khan</a>
 </h1>
 
-Full Stack Engineer | Backend & Distributed Systems Focused
+<p align="center">
+  Full Stack Engineer | Backend & Distributed Systems Focused
+</p>
 
 ---
-## 🏗 Backend Architecture & Systems
+
+## Backend Architecture & Systems
 
 ### Backend Frameworks
 Backend:  
@@ -46,14 +49,6 @@ DevOps / Cloud / Infrastructure:
   - Docker, Docker Compose, Kubernetes, NGINX  
   - Git, GitHub Actions, Linux  
   - AWS (EC2, S3, Lambda), DigitalOcean, Vercel  
-
-## 🔍 Current Interests
-
-- Distributed backend systems
-- AI infrastructure & LLM agents
-- Scalable SaaS architecture
-- Performance optimization
-- System design at scale
 
 ---
 
