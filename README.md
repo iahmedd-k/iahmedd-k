@@ -1,4 +1,10 @@
-#### Hi, I'm [Ahmed Khan](mailto:ahmedkhanofficials@gmail.com), a Software Engineer 👨‍💻
+<h1 align="center">
+  Hi, I'm <span style="color:#1E90FF;">Syed Haider Ali Zaidi</span> 👨‍💻
+</h1>
+
+<h3 align="center">
+  A Software Engineer
+</h3>
 
 Full Stack Engineer | Backend & Distributed Systems Focused
 
