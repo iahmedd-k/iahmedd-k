@@ -53,11 +53,5 @@ DevOps / Cloud / Infrastructure:
 ---
 
 
-I don't just build features — I design systems.
-
-Let’s build systems that last.
-
-
 email: ahmedkhanofficials@gmail.com
-
 Let’s build systems that last.
