@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#1E90FF;">Syed Haider Ali Zaidi</span> 👨‍💻
+  Hi, I'm <span style="color:#1E90FF;">Ahmed Khan</span> 👨‍💻
 </h1>
 
 <h3 align="center">
