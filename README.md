@@ -1,4 +1,5 @@
-# Ahmed Khan 👋
+Hi, I'm Syed Haider Ali Zaidi, a Software Engineer 👨‍💻
+
 Full Stack Engineer | Backend & Distributed Systems Focused
 
 ---
