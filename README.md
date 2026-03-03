@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#1E90FF;">[Ahmed Khan](mailto:ahmedkhanofficials@gmail.com)</span>  a Software Engineer 👨‍💻
+  Hi, I'm <span style="color:#1E90FF;">Ahmed Khan</span>  a Software Engineer 👨‍💻
 </h1>
 
 Full Stack Engineer | Backend & Distributed Systems Focused
