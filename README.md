@@ -1,26 +1,7 @@
 # Ahmed Khan 👋
 Full Stack Engineer | Backend & Distributed Systems Focused
 
-iahmedd-k@github
--------------------------
-OS: Linux, MacOS  
-Shell: fish 3.6  
-Uptime: 19 years  
-Host: National University of Sciences & Technology (NUST)  
-Location: Islamabad, Pakistan  
-
 ---
-
-## 🧠 Engineering Philosophy
-
-- Design for scale from day one
-- Write maintainable, modular backend services
-- Automate everything (CI/CD, testing, deployments)
-- Treat infrastructure as code
-- Measure, monitor, improve
-
----
-
 ## 🏗 Backend Architecture & Systems
 
 ### Backend Frameworks
