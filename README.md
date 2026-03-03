@@ -1,7 +1,7 @@
-
+# Ahmed Khan 👋
 
 Full Stack Engineer | Backend & Distributed Systems Focused
-
+📧 ahmedyourmail@gmail.com
 ---
 ## 🏗 Backend Architecture & Systems
 
@@ -58,13 +58,8 @@ DevOps / Cloud / Infrastructure:
 
 I don't just build features — I design systems.
 
-From database schema to deployment pipelines, I think about:
-- Reliability
-- Observability
-- Security
-- Maintainability
-- Scalability
 Let’s build systems that last.
+
 
 email: ahmedkhanofficials@gmail.com
 
