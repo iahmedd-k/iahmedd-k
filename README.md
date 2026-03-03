@@ -1,9 +1,8 @@
-### Hi, I'm [Ahmed Khan](mailto:ahmedkhanofficials@gmail.com), a Full Stack Engineer 👨‍💻
+#### Hi, I'm [Ahmed Khan](mailto:ahmedkhanofficials@gmail.com), a Software Engineer 👨‍💻
 
 Full Stack Engineer | Backend & Distributed Systems Focused
 
 ---
-📧 ahmedyourmail@gmail.com
 ## 🏗 Backend Architecture & Systems
 
 ### Backend Frameworks
