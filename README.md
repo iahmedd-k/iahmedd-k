@@ -1,10 +1,6 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#1E90FF;">Ahmed Khan</span> 👨‍💻
+  Hi, I'm <span style="color:#1E90FF;">Ahmed Khan</span>  a Software Engineer 👨‍💻
 </h1>
-
-<h3 align="center">
-  A Software Engineer
-</h3>
 
 Full Stack Engineer | Backend & Distributed Systems Focused
 
