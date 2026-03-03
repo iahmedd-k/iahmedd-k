@@ -1,10 +1,13 @@
 # Ahmed Khan 👋
 Full Stack Engineer | Backend & Distributed Systems Focused
 
-I build scalable backend systems, production-ready APIs, and AI-powered applications.  
-My focus is on clean architecture, performance, observability, and automation.
-
-I enjoy designing systems that scale beyond a single server — with proper CI/CD, containerization, and cloud deployment strategies.
+iahmedd-k@github
+-------------------------
+OS: Linux, MacOS  
+Shell: fish 3.6  
+Uptime: 19 years  
+Host: National University of Sciences & Technology (NUST)  
+Location: Islamabad, Pakistan  
 
 ---
 
@@ -20,6 +23,10 @@ I enjoy designing systems that scale beyond a single server — with proper CI/C
 
 ## 🏗 Backend Architecture & Systems
 
+### Backend Frameworks
+Backend:  
+  - Express.js, Nest.js, Django, FastAPI  
+  - REST APIs, GraphQL, gRPC, WebSockets, Redis
 ### API & Service Design
 - RESTful APIs
 - GraphQL
@@ -27,25 +34,16 @@ I enjoy designing systems that scale beyond a single server — with proper CI/C
 - WebSockets
 - Microservices & modular monolith architectures
 
-### Backend Frameworks
-- Node.js (Express, Nest.js)
-- Python (Django, FastAPI)
-
-
 ### Databases & Caching
 - PostgreSQL / MySQL
 - MongoDB
 - SQLite
 - Redis (caching, pub/sub, queues)
+---
 
-### Distributed Systems Concepts
-- Stateless services
-- Horizontal scaling
-- Rate limiting
-- Background workers
-- Job queues
-- Event-driven architecture
-
+## 🎨 Frontend
+ - React.js, Vue.js, Next.js, Swift, Flutter
+  - HTML5, CSS3, Tailwind CSS 
 ---
 
 ## 🤖 AI / LLM Systems
@@ -57,50 +55,13 @@ I enjoy designing systems that scale beyond a single server — with proper CI/C
 - Context management & embeddings
 - Prompt orchestration
 - Tool-based AI agents
-
-I build AI systems that are production-aware, not just demos.
-
 ---
 
 ## 🚀 DevOps / Infrastructure / CI-CD
-
-### Containerization
-- Docker
-- Docker Compose
-- Multi-stage builds
-- Image optimization
-
-### Orchestration
-- Kubernetes
-- NGINX reverse proxy
-- Service routing & load balancing
-
-### CI/CD
-- GitHub Actions pipelines
-- Automated testing & linting
-- Docker image builds on push
-- Deployment workflows
-- Environment-based configuration
-
-### Cloud & Deployment
-- AWS (EC2, S3, Lambda)
-- DigitalOcean
-- Vercel
-- Linux server administration
-
----
-
-## 🎨 Frontend
-
-- React.js
-- Next.js
-- Vue.js
-- TypeScript
-- Tailwind CSS
-
-I build frontend applications that consume well-designed APIs and scale with backend systems.
-
----
+DevOps / Cloud / Infrastructure:  
+  - Docker, Docker Compose, Kubernetes, NGINX  
+  - Git, GitHub Actions, Linux  
+  - AWS (EC2, S3, Lambda), DigitalOcean, Vercel  
 
 ## 🔍 Current Interests
 
@@ -122,6 +83,7 @@ From database schema to deployment pipelines, I think about:
 - Maintainability
 - Scalability
 Let’s build systems that last.
----
+
+email: ahmedkhanofficials@gmail.com
 
 Let’s build systems that last.
